@@ -9,7 +9,7 @@ name: Chris Martin
 description: Data Science, Product, Simplicity
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/dogplanter.jpg
+avatar: "https://raw.githubusercontent.com/cbymar/blog/master/images/dogplanter.jpg"
 
 #
 # Flags below are optional
@@ -73,7 +73,7 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
